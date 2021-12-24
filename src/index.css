@@ -1,0 +1,36 @@
+body {
+    width: 1000px;
+    height:1000px;
+    
+  }
+  
+  body {
+      animation: gradient 15s ease infinite;
+      background-size: cover;
+      background-repeat: no-repeat;
+    
+    }
+  
+
+
+.redcolor{
+    color: rgba(247, 190, 3, 0.885);
+    text-align: center;
+    font: 52px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 70px;;
+    
+}
+#root{margin-left: 15px;}
+.user_button{width:15%;height:38px;border-radius:15px;background-color: rgb(250, 178, 250);margin-left:25px;}
+.user_input{width:40%;height:38px;font-display:unset;font-size: x-large;border:1px solid rgb(250, 129, 0);border-radius: 10px;margin-left: 280px;}
+.list{font-size: 24px;font-family: monospace;display:list-item;min-width:300px;margin-left: 280px;}
+
+
+
+.list_div{display:flex;margin-bottom: 5px;margin-top: 10px; }
+.del_button{width:100px;height:24px;margin-left:105px;background-color: rgb(195, 236, 245);border-radius: 10px;}
+p{font-size:24px;font-weight: 600;text-align: center;color:crimson;}
+
+img{width:200px;height:200px}
+.top_logo{display:inline-flex}
